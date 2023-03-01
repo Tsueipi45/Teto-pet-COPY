@@ -6,27 +6,31 @@ https://discord.gg/MwdH5bg
 
 contact me joining my Discord derver
 
-Here are functions list:
-    Main:
-        choose
-        flip
-        ping
-        say
-    Math:
-        add
-        minus
-        times
-        divide
-        calculate
-        factorial
-    React:
-        pic
-        url_pic
-    No Category:
-        help
-        load
-        reload
-        unload
+## Here are functions list:
+
+>Main: 
+>choose
+>flip
+>ping
+>say
+
+>Math: 
+>add
+>minus
+>times
+>divide
+>calculate
+>factorial
+
+>React:
+>pic
+>url_pic
+
+>No Category: 
+>help
+>load
+>reload
+>unload
 
 The command prefix is "-"
 
