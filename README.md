@@ -1,10 +1,11 @@
 # Teto-pet
 This is a Discord Bot Program made by me (Tsueipi_45)
-Feel free to use it or give me any advices
-This bot is used in my own Discord server, feel free to join in and try it out
-https://discord.gg/MwdH5bg
 
-contact me joining my Discord derver
+Feel free to use it or give me any advices
+
+~This bot is used in my own Discord server, feel free to join in and try it out~
+
+The bot is currently down because I can't afford a Heroku project
 
 ## Here are functions list:
 
