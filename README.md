@@ -4,6 +4,7 @@ This is a Discord Bot Program made by me (Tsueipi_45)
 Feel free to use it or give me any advices
 
 This bot is used in my own Discord server, feel free to join in and try it out
+https://discord.com/invite/MwdH5bg
 
 ## Here are functions list:
 
